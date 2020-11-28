@@ -6,8 +6,7 @@ A minimal Tensorflow2.0 implementation of YOLOv2.
 # Dataset and weights
 
 ```shell
-链接：https://pan.baidu.com/s/1AK4KApBVV4AcDJ2Dnj6ENA 
-提取码：1ys9 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+链接: https://pan.baidu.com/s/1YlDe_M9HRH94YK4-ZTCcEg  
+密码: d5jh
 ```
 
